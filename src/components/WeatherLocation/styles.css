@@ -13,6 +13,6 @@
 .weatherLocationCont {
 	width: 400px;
 	padding: 25px;
-	font-family: 'sans-serif';
+	font-family: 'roboto, sans-serif';
 	box-shadow: 10px 10px 40px -12px rgba(0, 0, 0, 0.75);
 }
